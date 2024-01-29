@@ -9,6 +9,7 @@ html {
 body {
   background: #eee;
   padding: 0 16px;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
 }
 
 header {
@@ -86,7 +87,7 @@ form textarea {
   font-family: inherit;
   resize: none;
 }
-form button {
+form .addbutton {
   position: absolute;
   right: 18px;
   bottom: -18px;
